@@ -76,7 +76,7 @@ console.log(myArrayOfColors.length)
 const myPlayerObject = {
     name: 'Link',
     hearts: 3,
-    inventory: ['sword', 'sheild', { name: 'lesser sword', damage: 75 }],
+    inventory: ['Sword', 'Shield', { name: 'Lesser Sword', damage: 75 }],
     isAlive: true,
 }
 console.log(myPlayerObject.name)
